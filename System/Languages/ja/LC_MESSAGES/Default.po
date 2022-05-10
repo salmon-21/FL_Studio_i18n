@@ -1,28 +1,28 @@
 msgid ""
 msgstr ""
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0\n"
 "Project-Id-Version: FL Studio\n"
-"Language: zh_CN\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.0.1\n"
 
 msgid "      Generate"
-msgstr ""
+msgstr "       生成"
 
 msgid "     Buy plugin"
-msgstr ""
+msgstr "     プラグインの購入"
 
 msgid "     Buy plugins"
-msgstr ""
+msgstr "     プラグインの購入"
 
 msgid "  - 0 = No Melody"
-msgstr ""
+msgstr "  - 0 = メロディー無し"
 
 msgid "  - 1 = Main Voice"
 msgstr ""
@@ -31,7 +31,7 @@ msgid "  - 2 = Alt Voice"
 msgstr ""
 
 msgid "  - 3 = Chorus"
-msgstr ""
+msgstr "  - 3 = コーラス"
 
 msgid "  0"
 msgstr ""
@@ -55,7 +55,7 @@ msgid " - %s - band %d"
 msgstr ""
 
 msgid " - merged"
-msgstr ""
+msgstr " - マージ済み"
 
 msgid " / zone: %s to %s"
 msgstr ""
@@ -75,14 +75,18 @@ msgstr ""
 msgid ""
 " Switches to the frequency-spectrograph algorithm used prior to FL Studio 12"
 msgstr ""
+" FL Studio 12以前で使用されていた周波数スペクトログラフアルゴリズムに切り替わ"
+"る"
 
 msgid ""
 " Try downloading your FLRegkey.Reg file from your account and use the |"
 "Unlock with file| method."
 msgstr ""
+" アカウントからFLRegkey.Regファイルをダウンロードし、|Unlock with file|の方法"
+"で試してみてください。"
 
 msgid " VSTi installation"
-msgstr ""
+msgstr " VSTiのインストール"
 
 msgid " dB"
 msgstr ""
@@ -92,6 +96,7 @@ msgstr ""
 
 msgid " or |Controlled folder access| is turned on in Windows 10."
 msgstr ""
+" または、Windows 10で「制御されたフォルダーアクセス」がオンになっている。"
 
 msgid " out:"
 msgstr ""
@@ -106,7 +111,7 @@ msgid " strength"
 msgstr ""
 
 msgid "\"%s\" crashed while processing. Disabled."
-msgstr ""
+msgstr "\"%s\" は処理中にクラッシュしました。無効です。"
 
 msgid "\"Extra line 1\","
 msgstr ""
@@ -139,10 +144,10 @@ msgid "\"Extra line 9\","
 msgstr ""
 
 msgid "\"Uncompressed\" only allowed for .mp4 and .mov video file extensions"
-msgstr ""
+msgstr "非圧縮ファイルは.mp4と.movのビデオファイル拡張子のみ可能です。"
 
 msgid "% of visualizer window resolution"
-msgstr ""
+msgstr "%のビジュアライザーウィンドウの解像度の"
 
 msgid "% wet"
 msgstr ""
@@ -214,19 +219,19 @@ msgid "%d parameters selected"
 msgstr ""
 
 msgid "%d plugin(s) could not be opened"
-msgstr ""
+msgstr "プラグイン(%d)が開けません"
 
 msgid "%d plugins found"
-msgstr ""
+msgstr "プラグイン(%d)が見つかりました"
 
 msgid "%d plugins^%s plugins in use"
-msgstr ""
+msgstr "プラグイン(%d)は ^%s 使用中"
 
 msgid "%d right"
 msgstr ""
 
 msgid "%d sample(s) required by this project could not be located."
-msgstr ""
+msgstr "このプロジェクトで必要なサンプルが%d件見つかりませんでした。"
 
 msgid "%d semitones"
 msgstr ""
@@ -325,29 +330,29 @@ msgid "%s - stereo"
 msgstr ""
 
 msgid "%s BPM"
-msgstr ""
+msgstr "%s マンコ"
 
 msgid "%s Min: %d Max: %d MoveSpeed: %d"
 msgstr ""
 
 msgid ""
 "%s ReWire installation|Do you want %s to be registered as a ReWire client?"
-msgstr ""
+msgstr "%s ReWireのインストール|%sをReWireクライアントとして登録しますか？"
 
 msgid "%s TO output port %d"
 msgstr ""
 
 msgid "%s added at %s"
-msgstr ""
+msgstr "%sを%sに追加"
 
 msgid "%s at %s"
-msgstr ""
+msgstr "%sにある%s"
 
 msgid "%s at line %d: %s"
 msgstr ""
 
 msgid "%s can't write to this folder"
-msgstr ""
+msgstr "このフォルダに %s を書き込めません"
 
 msgid "%s delete %s"
 msgstr ""
@@ -386,7 +391,7 @@ msgid "%s ms / %d samples"
 msgstr ""
 
 msgid "%s only runs in FL Studio 4.1.2 or newer"
-msgstr ""
+msgstr "%s FL Studio 4.1.2以降で動作します"
 
 msgid "%s right"
 msgstr ""
@@ -407,15 +412,17 @@ msgid "%s used in this project %s limited |demo| %s."
 msgstr ""
 
 msgid "%s version %s is available!"
-msgstr ""
+msgstr "新バージョン %s %s があります！"
 
 msgid ""
 "%s will be |deleted| the next time this project is opened, unless you "
 "register (buy) %s."
 msgstr ""
+"%sは、%sを登録（購入）しない限り、次回このプロジェクトを開いたときに|削除|さ"
+"れます。"
 
 msgid "%s will now be launched but will look ugly..."
-msgstr ""
+msgstr "これで %s が起動しますが、見た目が悪いです..."
 
 msgid "%s will now restart."
 msgstr ""
@@ -520,7 +527,7 @@ msgid "&Audio"
 msgstr ""
 
 msgid "&Audio clip(s)"
-msgstr ""
+msgstr "オーディオクリップ(&A)"
 
 msgid "&Audio settings"
 msgstr "オーディオ設定(&A)"
@@ -550,7 +557,7 @@ msgid "&Automation"
 msgstr ""
 
 msgid "&Automation for last tweaked parameter"
-msgstr ""
+msgstr "最後に調整したパラメータに対する自動化(&A)"
 
 msgid "&Background waveform"
 msgstr ""
@@ -568,7 +575,7 @@ msgid "&Black notes"
 msgstr ""
 
 msgid "&Browse automations"
-msgstr ""
+msgstr "ブラウザオートメーション(&B)"
 
 msgid "&Browse scores"
 msgstr ""
@@ -7285,10 +7292,10 @@ msgid "E-mail address"
 msgstr ""
 
 msgid "EDIT / AUTOMATION"
-msgstr ""
+msgstr "オートメーションの編集"
 
 msgid "EDITOR OPTIONS"
-msgstr ""
+msgstr "編集オプション"
 
 msgid "EFFECTS"
 msgstr ""
@@ -7351,19 +7358,19 @@ msgid "Echoes"
 msgstr ""
 
 msgid "Edi&t envelope..."
-msgstr ""
+msgstr "エンベロープの編集(&t)"
 
 msgid "Edison (feature)"
-msgstr ""
+msgstr "エジソン機能"
 
 msgid "Edit"
-msgstr ""
+msgstr "編集"
 
 msgid "Edit Strings"
-msgstr ""
+msgstr "文字列の変種"
 
 msgid "Edit a&utomation clip..."
-msgstr ""
+msgstr "オートメーションクリップの編集(&u)"
 
 msgid "Edit ar&ticulator"
 msgstr ""
@@ -7372,28 +7379,28 @@ msgid "Edit effect in ZGameEditor"
 msgstr ""
 
 msgid "Edit events in new window"
-msgstr ""
+msgstr "新しいウィンドでイベントを編集"
 
 msgid "Edit events in piano roll"
-msgstr ""
+msgstr "ピアノロールイベントの編集"
 
 msgid "Edit image"
-msgstr ""
+msgstr "画像の変更"
 
 msgid "Edit in new window"
-msgstr ""
+msgstr "新しいウィンドで編集"
 
 msgid "Edit in pitch corrector"
-msgstr ""
+msgstr "ピッチ修正の編集"
 
 msgid "Edit in time warper"
-msgstr ""
+msgstr "タイム収縮の編集"
 
 msgid "Edit items"
-msgstr ""
+msgstr "アイテムの編集"
 
 msgid "Edit last script"
-msgstr ""
+msgstr "最後に使用したスクリプトの編集"
 
 msgid "Edit last script: %s"
 msgstr ""
@@ -7402,16 +7409,16 @@ msgid "Edit link must not be nil."
 msgstr ""
 
 msgid "Edit menu..."
-msgstr ""
+msgstr "メニューの編集"
 
 msgid "Edit name"
-msgstr ""
+msgstr "名前の変更"
 
 msgid "Edit palette..."
-msgstr ""
+msgstr "パレットの編集"
 
 msgid "Edit panning envelope"
-msgstr ""
+msgstr "パン エンベロープの編集"
 
 msgid "Edit patterns in &channel rack"
 msgstr ""
@@ -7420,10 +7427,10 @@ msgid "Edit patterns in &piano roll"
 msgstr ""
 
 msgid "Edit properties..."
-msgstr ""
+msgstr "詳細設定"
 
 msgid "Edit sample..."
-msgstr ""
+msgstr "サンプルの編集"
 
 msgid "Edit script"
 msgstr ""
@@ -7560,10 +7567,10 @@ msgid "Enable"
 msgstr "有効"
 
 msgid "Enable DMX output"
-msgstr ""
+msgstr "DMX出力の有効化"
 
 msgid "Enable Image-Line Remote"
-msgstr ""
+msgstr "Image-Line Remoteの有効化"
 
 msgid "Enable MIDI master sync"
 msgstr "MIDIマスタ同期を有効化"
@@ -7575,7 +7582,7 @@ msgid "Enable MIDI remote control"
 msgstr "MIDIリモートコントロールを有効化"
 
 msgid "Enable NDI output"
-msgstr ""
+msgstr "NDI出力を有効化"
 
 msgid "Enable Spout output (beta)"
 msgstr ""
@@ -7595,21 +7602,23 @@ msgid ""
 "Enable internal controller parameters that can be used for automation in "
 "other plugins"
 msgstr ""
+"他のプラグインでオートメーションに使用できる内部コントローラー・パラメーター"
+"を有効にする"
 
 msgid "Enable internal controllers"
-msgstr ""
+msgstr "内部コントローラーを有効化"
 
 msgid "Enable main pitch"
-msgstr ""
+msgstr "メインピッチを有効化"
 
 msgid "Enable master effects"
 msgstr "ﾏｽﾀｰｴﾌｪｸﾄ有効"
 
 msgid "Enable note / clip groups"
-msgstr ""
+msgstr "ノート・クリップグループの有効化"
 
 msgid "Enable online news"
-msgstr ""
+msgstr "オンラインニュースを有効化"
 
 msgid "Enable portamento"
 msgstr ""
@@ -7621,7 +7630,7 @@ msgid "Enable/disable layer"
 msgstr ""
 
 msgid "End"
-msgstr ""
+msgstr "終了"
 
 msgid "End time (H:M:S:Frame)"
 msgstr ""
@@ -7633,10 +7642,10 @@ msgid "Endless knob"
 msgstr ""
 
 msgid "Engine"
-msgstr ""
+msgstr "エンジン"
 
 msgid "English"
-msgstr ""
+msgstr "英語(Eng)"
 
 msgid "Enhance dynamics"
 msgstr ""
@@ -20071,34 +20080,34 @@ msgid ""
 msgstr ""
 
 msgid "Track latency"
-msgstr ""
+msgstr "トラックの遅延"
 
 msgid "Track number"
-msgstr ""
+msgstr "トラック数"
 
 msgid "Track options"
-msgstr ""
+msgstr "トラックの設定"
 
 msgid "Track origin"
-msgstr ""
+msgstr "トラック元"
 
 msgid "Track routing"
-msgstr ""
+msgstr "ルーティング"
 
 msgid "Track/Channel"
-msgstr ""
+msgstr "トラック・チャンネル"
 
 msgid "Tracking"
-msgstr ""
+msgstr "トラッキング"
 
 msgid "Tracks"
-msgstr ""
+msgstr "トラック"
 
 msgid "Tracks routed to this one"
-msgstr ""
+msgstr "これにルーティングする"
 
 msgid "Tracks skipped while rendering"
-msgstr ""
+msgstr "レンダリング中に無視"
 
 msgid ""
 "Tracks skipped|Some tracks were skipped because they didn't have audio or "
@@ -20106,10 +20115,10 @@ msgid ""
 msgstr ""
 
 msgid "Tracks this one is routed to"
-msgstr ""
+msgstr "ルーティングされたトラック"
 
 msgid "Traditional time signatures"
-msgstr ""
+msgstr "古典的な拍子記号"
 
 msgid "Transient"
 msgstr ""
@@ -20121,7 +20130,7 @@ msgid "Transient (no bleeding)"
 msgstr ""
 
 msgid "Transparent menus"
-msgstr ""
+msgstr "メニューの透明化"
 
 msgid "Transparent windows"
 msgstr "ウインドウの透明化"
@@ -20130,16 +20139,16 @@ msgid "Transport keystrokes to host"
 msgstr ""
 
 msgid "Transpose"
-msgstr ""
+msgstr "移調"
 
 msgid "Transpose down"
-msgstr ""
+msgstr "下に移調"
 
 msgid "Transpose one octave down"
-msgstr ""
+msgstr "1オクターブ下げる"
 
 msgid "Transpose one octave up"
-msgstr ""
+msgstr "1オクターブ上げる"
 
 msgid "Transpose selected..."
 msgstr "選択されているものを移調..."
@@ -20154,25 +20163,25 @@ msgid "Transpose up"
 msgstr ""
 
 msgid "Transpose..."
-msgstr ""
+msgstr "移調..."
 
 msgid "Trash every"
-msgstr ""
+msgstr "すべて削除"
 
 msgid "Treble clef"
 msgstr ""
 
 msgid "Tree"
-msgstr ""
+msgstr "ツリー"
 
 msgid "Tree display"
 msgstr "ツリー表示"
 
 msgid "Trial"
-msgstr ""
+msgstr "体験版"
 
 msgid "Trial Limitation"
-msgstr ""
+msgstr "体験版の制限"
 
 msgid "Triangle"
 msgstr ""
@@ -20232,27 +20241,29 @@ msgid "True stereo"
 msgstr ""
 
 msgid "Trumpet"
-msgstr ""
+msgstr "トランペット"
 
 msgid "Try again"
-msgstr ""
+msgstr "もう一度"
 
 msgid "Try the 32bit version of the plugin instead."
-msgstr ""
+msgstr "32bit版のプラグインを利用してください。"
 
 msgid "Try to load it as a 32bit plugin first"
-msgstr ""
+msgstr "最初に32bitプラグインを読み込んでください"
 
 msgid "Try to load it as a 64bit plugin first"
-msgstr ""
+msgstr "最初に64bitプラグインを読み込んでください"
 
 msgid "Try to prevent popup windows"
-msgstr ""
+msgstr "ポップアップウィンドウを無効化"
 
 msgid ""
 "Try to upload your %s again. If this error persists, try disconnecting from "
 "your account and reconnecting to it."
 msgstr ""
+"もう一度%sをアップロードしてください。エラーが消えない場合は、アカウントにロ"
+"グインしなおしてください。"
 
 msgid "Ts. Grain"
 msgstr ""
@@ -20312,10 +20323,10 @@ msgid "Type in (beats)"
 msgstr ""
 
 msgid "Typing Piano"
-msgstr ""
+msgstr "ピアノ打鍵"
 
 msgid "Typing keyboard"
-msgstr ""
+msgstr "キーボード打鍵"
 
 msgid "Typing keyboard to piano"
 msgstr "キーボード打鍵でピアノ"
@@ -20363,7 +20374,7 @@ msgid "Ultrasmooth"
 msgstr ""
 
 msgid "Unable to continue loading."
-msgstr ""
+msgstr "読み込めません。"
 
 msgid "Unable to create folder for MIDI import: %s"
 msgstr ""
@@ -20396,10 +20407,10 @@ msgid "Uncompressed video (best quality but huge output file)"
 msgstr ""
 
 msgid "Undefined"
-msgstr ""
+msgstr "未定義"
 
 msgid "Undefined error"
-msgstr ""
+msgstr "不明なエラー"
 
 msgid "Under"
 msgstr ""
@@ -20414,7 +20425,7 @@ msgid "Undo"
 msgstr "元に戻す"
 
 msgid "Undo History"
-msgstr ""
+msgstr "元に戻すの履歴"
 
 msgid "Undo backwards"
 msgstr ""
@@ -20486,39 +20497,41 @@ msgid "Unison scale (unipolar)"
 msgstr ""
 
 msgid "Unknown error"
-msgstr ""
+msgstr "不明なエラー"
 
 msgid "Unknown format"
-msgstr ""
+msgstr "不明なフォーマット"
 
 msgid "Unknown parameter #%d"
-msgstr ""
+msgstr "不明なパラメーター %d"
 
 msgid "Unknown type"
-msgstr ""
+msgstr "不明なタイプ"
 
 msgid "Unlimited audio I/O"
-msgstr ""
+msgstr "無制限のオーディオI/O"
 
 msgid "Unlink channel"
-msgstr ""
+msgstr "チャンネルンを解除"
 
 msgid "Unlink channel and mixer track"
-msgstr ""
+msgstr "チャンネルとミキサートラックを解除"
 
 msgid ""
 "Unlink channel and mixer track?|The linked channel and mixer track will be "
 "freed from the link with this playlist track."
 msgstr ""
+"チャンネルとミキサートラックを解除しますか？|リンクされたチャンネルとミキサー"
+"トラックはこのプレイリストトラックから解除されます。"
 
 msgid "Unlock"
-msgstr ""
+msgstr "アンロック"
 
 msgid "Unlock FL Studio"
 msgstr "FL Studioのアンロック"
 
 msgid "Unlock all zones"
-msgstr ""
+msgstr "全ゾーンをアンロック"
 
 msgid "Unlock with account"
 msgstr "アカウントによるアンロック"
@@ -20530,10 +20543,10 @@ msgid "Unlock with file "
 msgstr "ファイルによるアンロック "
 
 msgid "Unmute"
-msgstr ""
+msgstr "ミュート解除"
 
 msgid "Unmute all clips"
-msgstr ""
+msgstr "全クリップのミュート解除"
 
 msgid "Unmute selected"
 msgstr "選択されているものをミュート解除"
@@ -20545,7 +20558,7 @@ msgid "Unrealistic tempo"
 msgstr ""
 
 msgid "Unregister"
-msgstr ""
+msgstr "未登録"
 
 msgid "Unsorted"
 msgstr "未分類"
@@ -20572,7 +20585,7 @@ msgid "Up"
 msgstr ""
 
 msgid "Up keyboard key"
-msgstr ""
+msgstr "キーボードの上キー"
 
 msgid "Up/down"
 msgstr ""
@@ -20581,37 +20594,37 @@ msgid "Upd BPM"
 msgstr ""
 
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 msgid "Update Strings"
-msgstr ""
+msgstr "文字の更新"
 
 msgid "Update graph editor"
-msgstr ""
+msgstr "グラフエディター更新"
 
 msgid "Update launchmap page"
-msgstr ""
+msgstr "ランチマップページ更新"
 
 msgid "Update license"
-msgstr ""
+msgstr "ライセンスの更新"
 
 msgid "Update registration"
-msgstr ""
+msgstr "登録の更新"
 
 msgid "Update when hidden"
-msgstr ""
+msgstr "非表示時に更新"
 
 msgid "Update your expired license"
-msgstr ""
+msgstr "期限切れライセンスの更新"
 
 msgid "Update your license before it expires"
 msgstr ""
 
 msgid "Updates"
-msgstr ""
+msgstr "更新"
 
 msgid "Upgrade"
-msgstr ""
+msgstr "アップグレード"
 
 msgid "Upgrade Fire to FL Studio + ALL Plugins Bundle"
 msgstr ""
@@ -20695,7 +20708,7 @@ msgid "Use Blue"
 msgstr ""
 
 msgid "Use CPU"
-msgstr ""
+msgstr "CPUを使う"
 
 msgid "Use FIR downsampling filter"
 msgstr ""
@@ -20743,7 +20756,7 @@ msgid "Use maximum buffer size from host"
 msgstr ""
 
 msgid "Use memory (MiB)"
-msgstr ""
+msgstr "メモリー使用"
 
 msgid "Use offline help "
 msgstr "オフラインヘルプを使用 "
@@ -20868,7 +20881,7 @@ msgid "VST 1 & 2"
 msgstr ""
 
 msgid "VST Plugins"
-msgstr ""
+msgstr "VSTプラグイン"
 
 msgid "VST SAMPLER"
 msgstr ""
@@ -21230,10 +21243,10 @@ msgid "Warming"
 msgstr ""
 
 msgid "Warning - Wrong mixer track index:"
-msgstr ""
+msgstr "警告 - 不正なミキサートラックindex:"
 
 msgid "Warning!"
-msgstr ""
+msgstr "警告！"
 
 msgid ""
 "Warning: the TS404 module is now deprecated.\n"
@@ -27981,13 +27994,13 @@ msgid "|Shop"
 msgstr "|ショップ"
 
 msgid "|Show (select) all layered channels"
-msgstr ""
+msgstr "|すべてのレイヤードチャンネルを表示(選択)する"
 
 msgid "|Show / hide keyboard"
-msgstr ""
+msgstr "|キーボードの表示/非表示"
 
 msgid "|Show / hide left controls panel"
-msgstr ""
+msgstr "|左のコントロールパネルの表示/非表示"
 
 msgid "|Show / hide testing keyboard"
 msgstr ""
