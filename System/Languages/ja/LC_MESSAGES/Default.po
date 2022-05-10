@@ -75,15 +75,15 @@ msgstr ""
 msgid ""
 " Switches to the frequency-spectrograph algorithm used prior to FL Studio 12"
 msgstr ""
-" FL Studio 12以前で使用されていた周波数スペクトログラフアルゴリズムに切り替わ"
+" FL Studio 12以前で使用されていた周波数スペクトログラフアルゴリズムに切り替え"
 "る"
 
 msgid ""
 " Try downloading your FLRegkey.Reg file from your account and use the |"
 "Unlock with file| method."
 msgstr ""
-" アカウントからFLRegkey.Regファイルをダウンロードし、|Unlock with file|の方法"
-"で試してみてください。"
+" アカウントからFLRegkey.Regファイルをダウンロードし、|ファイルでアンロック|の"
+"方法で試してみてください。"
 
 msgid " VSTi installation"
 msgstr " VSTiのインストール"
@@ -96,7 +96,7 @@ msgstr ""
 
 msgid " or |Controlled folder access| is turned on in Windows 10."
 msgstr ""
-" または、Windows 10で「制御されたフォルダーアクセス」がオンになっている。"
+" または、Windows 10で「制御されたフォルダーアクセス」がオンになっています。"
 
 msgid " out:"
 msgstr ""
@@ -111,7 +111,7 @@ msgid " strength"
 msgstr ""
 
 msgid "\"%s\" crashed while processing. Disabled."
-msgstr "\"%s\" は処理中にクラッシュしました。無効です。"
+msgstr "\"%s\" は処理中にクラッシュしました。"
 
 msgid "\"Extra line 1\","
 msgstr ""
@@ -222,7 +222,7 @@ msgid "%d plugin(s) could not be opened"
 msgstr "プラグイン(%d)が開けません"
 
 msgid "%d plugins found"
-msgstr "プラグイン(%d)が見つかりました"
+msgstr "(%d)個のプラグインが見つかりました"
 
 msgid "%d plugins^%s plugins in use"
 msgstr "プラグイン(%d)は ^%s 使用中"
@@ -355,19 +355,19 @@ msgid "%s can't write to this folder"
 msgstr "このフォルダに %s を書き込めません"
 
 msgid "%s delete %s"
-msgstr ""
+msgstr "%s を削除 %s"
 
 msgid "%s deleted"
-msgstr ""
+msgstr "%s を削除しました"
 
 msgid "%s edit"
-msgstr ""
+msgstr "%s を編集"
 
 msgid "%s end"
-msgstr ""
+msgstr "%s を終わる"
 
 msgid "%s for %s"
-msgstr ""
+msgstr "%sから%s"
 
 msgid "%s is %sunlocked%s and registered to: %s"
 msgstr ""
@@ -482,10 +482,10 @@ msgid "&Add"
 msgstr "&Add"
 
 msgid "&Add filter group"
-msgstr ""
+msgstr "フィルターグループの追加(&A)"
 
 msgid "&Add marker..."
-msgstr "マーカーを追加...(&A)"
+msgstr "マーカーの追加...(&A)"
 
 msgid "&Add one"
 msgstr "追加(&A)"
@@ -494,28 +494,28 @@ msgid "&Add one..."
 msgstr "追加...(&A)"
 
 msgid "&Advanced looping"
-msgstr ""
+msgstr "高度なループ(&A)"
 
 msgid "&All notes"
-msgstr ""
+msgstr "全てのノート(&A)"
 
 msgid "&All playlist tracks..."
-msgstr ""
+msgstr "全てのプレイリストトラック(&A)"
 
 msgid "&Analyze audio file..."
-msgstr ""
+msgstr "オーディオファイルを分析(&A)"
 
 msgid "&Analyze single-cycle waveform..."
-msgstr ""
+msgstr "一周期分の波形を分析(&A)"
 
 msgid "&Aqua"
 msgstr ""
 
 msgid "&Arm recording"
-msgstr ""
+msgstr "録音待機(&A)"
 
 msgid "&Articulator"
-msgstr ""
+msgstr "アーティキュレーター(&A)"
 
 msgid "&Assign to new audio track"
 msgstr "新規オーディオトラックへの割当(&A)"
@@ -524,7 +524,7 @@ msgid "&Assign to new instrument track"
 msgstr "新規楽器トラックへの割当(&A)"
 
 msgid "&Audio"
-msgstr ""
+msgstr "オーディオ(&A)"
 
 msgid "&Audio clip(s)"
 msgstr "オーディオクリップ(&A)"
@@ -533,40 +533,40 @@ msgid "&Audio settings"
 msgstr "オーディオ設定(&A)"
 
 msgid "&Audio track"
-msgstr ""
+msgstr "オーディオトラック(&A)"
 
 msgid "&Auto map"
-msgstr ""
+msgstr "オートマップ(&A)"
 
 msgid "&Auto name"
-msgstr ""
+msgstr "オートネーム(&A)"
 
 msgid "&Auto-unarm"
-msgstr ""
+msgstr "待機の自動解除(&A)"
 
 msgid "&Autodetect"
-msgstr ""
+msgstr "自動検出(&A)"
 
 msgid "&Automate"
-msgstr ""
+msgstr "自動化(&A)"
 
 msgid "&Automatic"
-msgstr ""
+msgstr "自動的(&A)"
 
 msgid "&Automation"
-msgstr ""
+msgstr "オートメーション(&A)"
 
 msgid "&Automation for last tweaked parameter"
 msgstr "最後に調整したパラメータに対する自動化(&A)"
 
 msgid "&Background waveform"
-msgstr ""
+msgstr "背景波形(&B)"
 
 msgid "&Bars"
-msgstr ""
+msgstr "小節(&B)"
 
 msgid "&Beats"
-msgstr ""
+msgstr "拍(%B)"
 
 msgid "&Behind clips"
 msgstr ""
@@ -578,13 +578,13 @@ msgid "&Browse automations"
 msgstr "ブラウザオートメーション(&B)"
 
 msgid "&Browse scores"
-msgstr ""
+msgstr "スコアブラウザ(&B)"
 
 msgid "&Browser"
 msgstr "ブラウザ(&B)"
 
 msgid "&Browser smart find..."
-msgstr ""
+msgstr "ブラウザスマート検索(&B)"
 
 msgid "&C5"
 msgstr ""
@@ -599,127 +599,127 @@ msgid "&Cel"
 msgstr ""
 
 msgid "&Center"
-msgstr ""
+msgstr "中央(&C)"
 
 msgid "&Channel"
 msgstr "チャンネル(&C)"
 
 msgid "&Channel aftertouch"
-msgstr ""
+msgstr "チャンネルアフタータッチ(&C)"
 
 msgid "&Channel rack"
-msgstr ""
+msgstr "チャンネルラック(&C)"
 
 msgid "&Channel routing"
 msgstr "チャンネルルーティング(&C)"
 
 msgid "&Channel settings"
-msgstr ""
+msgstr "チャンネル設定(&C)"
 
 msgid "&Chorus"
-msgstr ""
+msgstr "コーラス(&C)"
 
 msgid "&Clips"
-msgstr ""
+msgstr "クリップ(&C)"
 
 msgid "&Clone"
-msgstr ""
+msgstr "複製(&C)"
 
 msgid "&Clone selected"
 msgstr "選択しているものを複製(&C)"
 
 msgid "&Clone..."
-msgstr ""
+msgstr "複製...(&C)"
 
 msgid "&Collapse all"
-msgstr ""
+msgstr "全て破棄(&C)"
 
 msgid "&Compensate automations"
-msgstr ""
+msgstr "オートメーション補正(&C)"
 
 msgid "&Configure..."
-msgstr ""
+msgstr "設定(&C)"
 
 msgid "&Consolidate playlist selection"
-msgstr ""
+msgstr "選択したプレイリストの統合(&C)"
 
 msgid "&Content in titlebars"
-msgstr ""
+msgstr "タイトルバーの内容(&C)"
 
 msgid "&Control creator"
-msgstr ""
+msgstr "コントロールクリエーター(&C)"
 
 msgid "&Copy"
 msgstr "コピー(&C)"
 
 msgid "&Copy audio to clipboard"
-msgstr ""
+msgstr "クリップボードにオーディオをコピー(&C)"
 
 msgid "&Copy state"
-msgstr ""
+msgstr "状態のコピー(&C)"
 
 msgid "&Copy to MIDI clipboard..."
-msgstr ""
+msgstr "MIDIクリップボードにコピー(&C)"
 
 msgid "&Copy value"
-msgstr ""
+msgstr "値のコピー(&C)"
 
 msgid "&Current pattern"
-msgstr ""
+msgstr "現在のパターン(&C)"
 
 msgid "&Debugging log"
 msgstr "デバッグログ(&D)"
 
 msgid "&Decimate points..."
-msgstr ""
+msgstr "ポイントを間引く(&D)"
 
 msgid "&Default / none"
-msgstr ""
+msgstr "デフォルト/なし(&D)"
 
 msgid "&Delete"
 msgstr "削除(&D)"
 
 msgid "&Delete event"
-msgstr ""
+msgstr "イベントの削除(&D)"
 
 msgid "&Delete filter group"
-msgstr ""
+msgstr "フィルターグループの削除(&D)"
 
 msgid "&Delete initial value"
-msgstr ""
+msgstr "初期値の削除(&D)"
 
 msgid "&Delete whole mapping"
-msgstr ""
+msgstr "全マッピングの削除(&D)"
 
 msgid "&Delete..."
 msgstr "削除...(&D)"
 
 msgid "&Deselect"
-msgstr ""
+msgstr "選択の解除(&D)"
 
 msgid "&Detached"
 msgstr "分離(&D)"
 
 msgid "&Detect modulator noise level"
-msgstr ""
+msgstr "モジュレーターノイズレベルの検出(&D)"
 
 msgid "&Detect tempo"
-msgstr ""
+msgstr "テンポの検出(&D)"
 
 msgid "&Disarm on stop"
-msgstr ""
+msgstr "一時停止時に待機の解除(&D)"
 
 msgid "&Disarm recording"
-msgstr ""
+msgstr "録音待機の解除(&D)"
 
 msgid "&Disk recording"
-msgstr ""
+msgstr "ディスクレコーディング(&D)"
 
 msgid "&Distortion"
-msgstr ""
+msgstr "ディストーション(&D)"
 
 msgid "&Dock control panel"
-msgstr ""
+msgstr "コントロールパネルのドッキング(&D)"
 
 msgid "&Double height"
 msgstr ""
@@ -728,10 +728,10 @@ msgid "&Dull auto-slicing"
 msgstr ""
 
 msgid "&Edit"
-msgstr "&Edit"
+msgstr "編集(&E)"
 
 msgid "&Edit events"
-msgstr ""
+msgstr "イベントの編集(&E)"
 
 msgid "&Edit in audio editor"
 msgstr ""
