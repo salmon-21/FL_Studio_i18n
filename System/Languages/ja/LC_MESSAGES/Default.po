@@ -24116,7 +24116,7 @@ msgid "sun"
 msgstr ""
 
 msgid "sunday"
-msgstr ""
+msgstr "日曜日"
 
 msgid "sv"
 msgstr ""
