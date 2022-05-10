@@ -330,7 +330,7 @@ msgid "%s - stereo"
 msgstr ""
 
 msgid "%s BPM"
-msgstr "%s マンコ"
+msgstr ""
 
 msgid "%s Min: %d Max: %d MoveSpeed: %d"
 msgstr ""
