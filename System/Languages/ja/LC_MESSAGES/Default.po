@@ -3961,6 +3961,8 @@ msgid ""
 "Audio recording not available|Audio recording requires audio inputs, thus "
 "will only work through |ASIO| drivers."
 msgstr ""
+"オーディオレコーディングができません|オーディオ録音にはオーディオ入力が必要な"
+"ため、|ASIO|ドライバを通してのみ動作します。"
 
 msgid "Audio source"
 msgstr ""
@@ -5871,7 +5873,7 @@ msgid "Controller plugins"
 msgstr ""
 
 msgid "Controller type"
-msgstr ""
+msgstr "コントローラータイプ"
 
 msgid "ControlsPanel"
 msgstr ""
@@ -6057,7 +6059,7 @@ msgid "Count: %s"
 msgstr ""
 
 msgid "Countdown before recording"
-msgstr ""
+msgstr "録音前のカウントダウン"
 
 msgid "Cowbell"
 msgstr ""
@@ -10060,7 +10062,7 @@ msgid "Help"
 msgstr "ﾍﾙﾌﾟ"
 
 msgid "Help / about"
-msgstr ""
+msgstr "ヘルプ / アバウト"
 
 msgid "Hi-hat"
 msgstr ""
@@ -10813,10 +10815,10 @@ msgid "Interval"
 msgstr ""
 
 msgid "Into &Edison audio editor/recorder"
-msgstr ""
+msgstr "イントゥ＆エジソン オーディオエディター/レコーダー"
 
 msgid "Into &playlist as an audio clip"
-msgstr ""
+msgstr "オーディオクリップとして&プレイリストへ"
 
 msgid "Into workspace"
 msgstr ""
@@ -11719,13 +11721,13 @@ msgid "Link key to:"
 msgstr ""
 
 msgid "Link note on velocity to"
-msgstr ""
+msgstr "ﾍﾞﾛｼﾃｨに関するﾉｰﾄをﾘﾝｸする"
 
 msgid "Link release to release length"
 msgstr ""
 
 msgid "Link release velocity to"
-msgstr ""
+msgstr "ﾘﾘｰｽ速度のﾘﾝｸをする"
 
 msgid "Link timbre release to volume decay"
 msgstr ""
@@ -13130,7 +13132,7 @@ msgid "Multichannel waveform view"
 msgstr ""
 
 msgid "Multilink to controllers"
-msgstr ""
+msgstr "コントローラとのマルチリンク"
 
 msgid "Multilink..."
 msgstr ""
@@ -15000,7 +15002,7 @@ msgid "Playlist track"
 msgstr ""
 
 msgid "Please adjust your audio settings."
-msgstr ""
+msgstr "オーディオの設定を変更してください。"
 
 msgid "Please attach Fire controller and restart %s to open the project"
 msgstr ""
@@ -17725,7 +17727,7 @@ msgid "Send loop position"
 msgstr ""
 
 msgid "Send master sync"
-msgstr ""
+msgstr "マスターシンクの送信"
 
 msgid "Send midi out sysex"
 msgstr ""
@@ -19116,7 +19118,7 @@ msgid "Sync video with song position"
 msgstr ""
 
 msgid "Synchronization type"
-msgstr ""
+msgstr "同期タイプ"
 
 msgid "Synth"
 msgstr ""
@@ -21054,19 +21056,19 @@ msgid "View FPS"
 msgstr ""
 
 msgid "View Piano Roll"
-msgstr "ピアノロールを表示"
+msgstr "ピアノロールの表示"
 
 msgid "View Playlist"
-msgstr "プレイリストを表示"
+msgstr "プレイリストの表示"
 
 msgid "View browser / plugin picker"
-msgstr "プラウザ／プラグインピッカーを表示"
+msgstr "プラウザ／プラグインピッカーの表示"
 
 msgid "View channel rack"
-msgstr "チャンネルラックを表示"
+msgstr "チャンネルラックの表示"
 
 msgid "View mixer"
-msgstr "ミキサーを表示"
+msgstr "ミキサーの表示"
 
 msgid "View presets in folders (if any)"
 msgstr ""
@@ -21228,7 +21230,7 @@ msgid "WS MIX ENV"
 msgstr ""
 
 msgid "Wait for input to start playing"
-msgstr ""
+msgstr "入力の再生開始を待つ"
 
 msgid "Wallpaper"
 msgstr ""
@@ -28829,7 +28831,7 @@ msgid "|^?169^^d^^R ^Record %s"
 msgstr ""
 
 msgid "|^?170^^d^^Ctrl+J ^Multilink to controllers"
-msgstr ""
+msgstr "|^?170^^d^^Ctrl+J ^コントローラとのマルチリンク"
 
 msgid "|^?171^^b^aBPM"
 msgstr ""
@@ -28844,7 +28846,7 @@ msgid "|^?173^^b^aMaster pitch"
 msgstr ""
 
 msgid "|^?174^Launch content library"
-msgstr ""
+msgstr "|^?174^コンテンツライブラリーを立ち上げる"
 
 msgid "|^?176^One-click audio recording"
 msgstr "|^?176^ワンクリックオーディオレコーディング"
@@ -29012,7 +29014,7 @@ msgid "|^^Escape^Close"
 msgstr ""
 
 msgid "|^^F11^View project info"
-msgstr ""
+msgstr "|^^F11^プロジェクト情報を表示"
 
 msgid "|^^F2 / F3^Select color"
 msgstr ""
@@ -29129,7 +29131,7 @@ msgid "|^^See middle note^Period snap"
 msgstr ""
 
 msgid "|^^Shift+Alt+G^Enable note / clip groups"
-msgstr ""
+msgstr "|^^Shift+Alt+G^ノート・クリップグループの有効化"
 
 msgid "|^^Shift+Enter^Hide panel / meters - controls aspect"
 msgstr ""
@@ -32837,10 +32839,10 @@ msgid "|^dSaturation"
 msgstr ""
 
 msgid "|^dSave as... / save as WavPack..."
-msgstr ""
+msgstr "|^d名前を付けて保存.. /WAVパックとして保存..."
 
 msgid "|^dScrolls to reach time markers"
-msgstr ""
+msgstr "|^dスクロールしてタイムマーカーへ"
 
 msgid "|^dSelect preset"
 msgstr ""
@@ -32954,16 +32956,16 @@ msgid "|^d^^Ctrl+F8^Open project / plugin picker"
 msgstr "|^d^^Ctrl+F8^プロジェクト / プラグインピッカーを開く"
 
 msgid "|^d^^Ctrl+I ^Wait for input to start playing"
-msgstr ""
+msgstr "|^d^^Ctrl+I ^入力の再生開始を待つ"
 
 msgid "|^d^^Ctrl+M ^Metronome"
 msgstr ""
 
 msgid "|^d^^Ctrl+P ^Countdown before recording"
-msgstr ""
+msgstr "|^d^^Ctrl+P ^録音前のカウントダウン"
 
 msgid "|^d^^Ctrl+R^Render as audio file..."
-msgstr ""
+msgstr "|^d^^Ctrl+R^オーディオファイルとしてレンダリングする..."
 
 msgid "|^d^^Ctrl+T ^Typing keyboard to piano keyboard"
 msgstr "|^d^^Ctrl+T ^キーボード打鍵でピアノキー"
@@ -32990,7 +32992,7 @@ msgid "|^d^^Enable/disable direct input recording"
 msgstr ""
 
 msgid "|^d^^F1^Help / about"
-msgstr ""
+msgstr "|^d^^F1^ヘルプ / アバウト"
 
 msgid "|^d^^F2 / F3^Select color (Shift + right click to copy color 2)"
 msgstr ""
@@ -33023,10 +33025,10 @@ msgid "|^d^^Set loop point"
 msgstr ""
 
 msgid "|^d^^Shift+Ctrl+S^Save as... / save new version"
-msgstr ""
+msgstr "|^d^^Shift+Ctrl+S^名前を付けて保存... / 新規バージョンを保存"
 
 msgid "|^d^^Space ^Stop"
-msgstr ""
+msgstr "|^d^^Space ^停止"
 
 msgid "|^d^^Space^Stop"
 msgstr ""
