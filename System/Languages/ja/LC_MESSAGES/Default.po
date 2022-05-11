@@ -479,7 +479,7 @@ msgid "&About..."
 msgstr "FL Studioについて...(&A)"
 
 msgid "&Add"
-msgstr "&Add"
+msgstr "追加"
 
 msgid "&Add filter group"
 msgstr "フィルターグループの追加(&A)"
@@ -728,7 +728,7 @@ msgid "&Dull auto-slicing"
 msgstr ""
 
 msgid "&Edit"
-msgstr "編集(&E)"
+msgstr "編集"
 
 msgid "&Edit events"
 msgstr "イベントの編集(&E)"
@@ -779,13 +779,13 @@ msgid "&FLAC file..."
 msgstr "FLACファイル...(&F)"
 
 msgid "&File"
-msgstr "&File"
+msgstr "ﾌｧｲﾙ"
 
 msgid "&File settings"
 msgstr "ファイル設定(&F)"
 
 msgid "&Filter"
-msgstr ""
+msgstr "フィルター(&F)"
 
 msgid "&Find..."
 msgstr ""
@@ -854,7 +854,7 @@ msgid "&Half speed"
 msgstr ""
 
 msgid "&Help"
-msgstr "&Help"
+msgstr "ヘルプ(&H)"
 
 msgid "&Help index"
 msgstr "ヘルプの索引(&H)"
@@ -1061,7 +1061,7 @@ msgid "&Open..."
 msgstr "開く...(&O)"
 
 msgid "&Options"
-msgstr "&Options"
+msgstr "設定"
 
 msgid "&Order"
 msgstr ""
@@ -1124,7 +1124,7 @@ msgid "&Pattern to playlist"
 msgstr ""
 
 msgid "&Patterns"
-msgstr "&Patterns"
+msgstr "ﾊﾟﾀｰﾝ"
 
 msgid "&Perc"
 msgstr ""
@@ -1391,7 +1391,7 @@ msgid "&Time-warp sample"
 msgstr ""
 
 msgid "&Tools"
-msgstr "&Tools"
+msgstr "ﾂｰﾙ"
 
 msgid "&Track mode"
 msgstr ""
@@ -1445,7 +1445,7 @@ msgid "&Use sample built-in slicing"
 msgstr ""
 
 msgid "&View"
-msgstr "&View"
+msgstr "ﾋﾞｭｰ"
 
 msgid "&View editor"
 msgstr ""
@@ -10057,7 +10057,7 @@ msgid "Held index mapping"
 msgstr ""
 
 msgid "Help"
-msgstr ""
+msgstr "ﾍﾙﾌﾟ"
 
 msgid "Help / about"
 msgstr ""
@@ -13996,7 +13996,7 @@ msgid "Open"
 msgstr ""
 
 msgid "Open (new) audio editor"
-msgstr ""
+msgstr "(新規の)オーディオエディタを開く"
 
 msgid "Open BeatSlicer / BeatCreator for further editing"
 msgstr ""
@@ -27327,7 +27327,7 @@ msgid "|Punches size (rounded / square)"
 msgstr ""
 
 msgid "|Purchase FL Studio, upgrades and plugins."
-msgstr ""
+msgstr "|FL Studioアップグレード、プラグインの購入"
 
 msgid "|Put each take in a separate pattern"
 msgstr ""
@@ -28847,10 +28847,10 @@ msgid "|^?174^Launch content library"
 msgstr ""
 
 msgid "|^?176^One-click audio recording"
-msgstr ""
+msgstr "|^?176^ワンクリックオーディオレコーディング"
 
 msgid "|^?177^^^Ctrl+F5^View tempo tapper"
-msgstr ""
+msgstr "|^?177^^^Ctrl+F5^テンポタッパーの表示"
 
 msgid "|^?178^^dCPU load"
 msgstr ""
@@ -28901,7 +28901,7 @@ msgid "|^^A^Scrolls to reach playback marker"
 msgstr ""
 
 msgid "|^^Alt+F7^View touch controller"
-msgstr ""
+msgstr "|^^Alt+F7^タッチコントローラーの表示"
 
 msgid "|^^Alt+W ^View waveforms"
 msgstr ""
@@ -29021,16 +29021,16 @@ msgid "|^^F5^Icon"
 msgstr ""
 
 msgid "|^^F5^View playlist"
-msgstr ""
+msgstr "|^^F5^プレイリストの表示"
 
 msgid "|^^F6^View channel rack"
-msgstr ""
+msgstr "|^^F6^チャンネルラックの表示"
 
 msgid "|^^F7^View piano roll"
-msgstr ""
+msgstr "|^^F7^ピアノロールの表示"
 
 msgid "|^^F9^View mixer"
-msgstr "|^^F9^ミキサーを表示"
+msgstr "|^^F9^ミキサーの表示"
 
 msgid "|^^Green = unhandled^MIDI input activity"
 msgstr ""
@@ -32780,7 +32780,7 @@ msgid "|^dNumber of rows"
 msgstr ""
 
 msgid "|^dOpen (new) audio editor"
-msgstr ""
+msgstr "|^d(新規の)オーディオエディタを開く"
 
 msgid "|^dPad name"
 msgstr ""
@@ -32915,7 +32915,7 @@ msgid "|^dUndo / Redo"
 msgstr ""
 
 msgid "|^dUndo / undo history"
-msgstr ""
+msgstr "^d元に戻す / 取り消し履歴"
 
 msgid "|^dView regions / markers / loop"
 msgstr ""
@@ -32936,7 +32936,7 @@ msgid "|^d^^Alt+Enter^Maximize (over taskbar) / restore"
 msgstr ""
 
 msgid "|^d^^Alt+F8^View browser / plugin picker"
-msgstr ""
+msgstr "|^d^^Alt+F8^ブラウザ / プラグインピッカーの表示"
 
 msgid "|^d^^BkSp^Main snap / quantization / step edit step"
 msgstr ""
@@ -32951,7 +32951,7 @@ msgid "|^d^^Ctrl+Enter ^View / swap track inspector"
 msgstr ""
 
 msgid "|^d^^Ctrl+F8^Open project / plugin picker"
-msgstr ""
+msgstr "|^d^^Ctrl+F8^プロジェクト / プラグインピッカーを開く"
 
 msgid "|^d^^Ctrl+I ^Wait for input to start playing"
 msgstr ""
@@ -32972,7 +32972,7 @@ msgid "|^d^^Ctrl+V^Paste / duplicate"
 msgstr ""
 
 msgid "|^d^^Ctrl+Z^Undo / undo history"
-msgstr ""
+msgstr "|^d^^Ctrl+Z^元に戻す / 取り消し履歴"
 
 msgid "|^d^^Ctrl/Shift^Disable send from %s to %s"
 msgstr ""
@@ -32999,7 +32999,7 @@ msgid "|^d^^F2 / F3^Select color 2 (Shift + right click to copy color 1)"
 msgstr ""
 
 msgid "|^d^^F8^Open plugin / project picker"
-msgstr ""
+msgstr "|^d^^F8^プラグイン/プロジェクトピッカーを開く"
 
 msgid "|^d^^H ^Slave playback to host"
 msgstr ""
