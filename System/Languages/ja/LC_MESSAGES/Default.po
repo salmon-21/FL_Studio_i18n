@@ -412,7 +412,7 @@ msgid "%s used in this project %s limited |demo| %s."
 msgstr ""
 
 msgid "%s version %s is available!"
-msgstr "新バージョン %s %s があります！"
+msgstr "%s バージョン  %s があります！"
 
 msgid ""
 "%s will be |deleted| the next time this project is opened, unless you "
@@ -638,7 +638,7 @@ msgid "&Compensate automations"
 msgstr "オートメーション補正(&C)"
 
 msgid "&Configure..."
-msgstr "設定(&C)"
+msgstr "設定...(&C)"
 
 msgid "&Consolidate playlist selection"
 msgstr "選択したプレイリストの統合(&C)"
@@ -1313,7 +1313,7 @@ msgid "&Set for all tracks"
 msgstr ""
 
 msgid "&Set time signature..."
-msgstr "拍子を設定...(&S)"
+msgstr "拍子の設定...(&S)"
 
 msgid "&Set..."
 msgstr ""
@@ -3381,7 +3381,7 @@ msgid "Add &plugin"
 msgstr ""
 
 msgid "Add &time signature..."
-msgstr "拍子を追加...(&T)"
+msgstr "拍子の追加...(&T)"
 
 msgid "Add &two..."
 msgstr ""
@@ -4687,7 +4687,7 @@ msgid "Browser extra search folders"
 msgstr ""
 
 msgid "Browser name"
-msgstr "ブラウザでの名称"
+msgstr "ブラウザの名前"
 
 msgid "Browser preview"
 msgstr ""
@@ -7608,7 +7608,7 @@ msgstr ""
 "を有効にする"
 
 msgid "Enable internal controllers"
-msgstr "内部コントローラーを有効化"
+msgstr "内部コントローラーの有効化"
 
 msgid "Enable main pitch"
 msgstr "メインピッチを有効化"
@@ -10815,10 +10815,10 @@ msgid "Interval"
 msgstr ""
 
 msgid "Into &Edison audio editor/recorder"
-msgstr "イントゥ＆エジソン オーディオエディター/レコーダー"
+msgstr "エディソンでオーディオの編集/録音(&E)"
 
 msgid "Into &playlist as an audio clip"
-msgstr "オーディオクリップとして&プレイリストへ"
+msgstr "オーディオクリップとして&プレイリストへ(&P)"
 
 msgid "Into workspace"
 msgstr ""
@@ -11370,7 +11370,7 @@ msgid "Language"
 msgstr "言語"
 
 msgid "Language change"
-msgstr "言語を変更"
+msgstr "言語の変更"
 
 msgid "Large"
 msgstr ""
@@ -14135,7 +14135,7 @@ msgid "Opening file..."
 msgstr ""
 
 msgid "Opening: %s"
-msgstr "開いています: %s"
+msgstr "%sを開いています"
 
 msgid "Operator"
 msgstr ""
@@ -17841,7 +17841,7 @@ msgid "Set %s"
 msgstr ""
 
 msgid "Set &time signature..."
-msgstr "拍子を設定...(&T)"
+msgstr "拍子の設定...(&T)"
 
 msgid "Set FL Studio hint"
 msgstr ""
@@ -18097,7 +18097,7 @@ msgstr ""
 
 msgid "Shop|Looks like you already own everything you could buy in this shop."
 msgstr ""
-"ショップ|あなたがショップで購入可能なすべてをすでに所有しているようです。"
+"ショップ|あなたがショップで購入可能な全てをすでに所有しているようです。"
 
 msgid "Shop|Purchase %s, upgrades and plugins."
 msgstr ""
@@ -21245,7 +21245,7 @@ msgid "Warming"
 msgstr ""
 
 msgid "Warning - Wrong mixer track index:"
-msgstr "警告 - 不正なミキサートラックindex:"
+msgstr "警告 - 不正なミキサートラック番号:"
 
 msgid "Warning!"
 msgstr "警告！"
